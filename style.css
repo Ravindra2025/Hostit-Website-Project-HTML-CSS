@@ -1,0 +1,198 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.home{
+    background-color: #05052f;
+    width: 100%;
+    height: 650px;
+}
+.navbar{
+    padding: 15px;
+    padding-top: 20px;
+    
+}
+.navbar div{
+    margin-left: 50px;
+    float: left;
+    color: white;
+}
+.navbar ul li{
+    float: left;
+    margin-left: 20px;
+    list-style: none;
+}
+.navbar ul li a{
+    margin-left: 60px;
+    text-decoration: none;
+    font-size: large;
+    color: white;
+}
+.navbar ul{
+    margin-left: 45%;
+}
+.banner{
+    width: 35%;
+    margin-left: 45%;
+    margin-top: 70px;
+}
+.text{
+    margin-top: -30%;
+    margin-left: 70px;
+    color: white;
+}
+.text h2{
+    font-size: 50px;
+}
+.text p{
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    line-height: 30px;
+    margin-top: 30px;
+}
+.text-btn1{
+    width: 200px;
+    height: 40px;
+    background-color: #15819f;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-top: 30px;
+    font-size: 17px;
+}
+.text-btn1:hover{
+    background-color:#05052f;
+    color: #15819f;
+    border: 2px solid #15819f;
+}
+.text-btn2{
+    width: 200px;
+    height: 40px;
+    background-color: #c1222a;
+    color: white;
+    border: none;
+    border-radius: 5px;
+   margin-left: 20px;
+    font-size: 17px;
+}
+.text-btn2:hover{
+    background-color:#05052f;
+    color: #c1222a;
+    border: 2px solid #c1222a;
+}
+.about-img{
+    width: 50%;
+    margin-left: 50%;
+    margin-top: 12%;
+}
+.about-text{
+    margin-top: -27%;
+    margin-left: 50px;
+}
+.about-text h2{
+    font-size: 40px;
+}
+.about-text p{
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    line-height: 30px;
+    margin-top: 20px;
+}
+.about-btn{
+    width: 200px;
+    height: 40px;
+    margin-top: 20px;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+.about-btn:hover{
+    background-color: white;
+    color: red;
+    border: 2px solid red;
+}
+.service{
+    width: 100%;
+    height: 500px;
+    background-color: #05052f;
+    margin-top: 20%;
+}
+.service-img{
+    width: 50%;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+.service-text{
+    margin-left: 52%;
+    margin-top: -22%;
+    color: white;
+}
+.service-text h2{
+    font-size: 30px;
+}
+.service-text p{
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    line-height: 30px;
+    margin-top: 20px;
+}
+.service-btn{
+    width: 200px;
+    height: 40px;
+    margin-top: 30px;
+    background-color: #c1222a;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.service-btn:hover{
+    background-color: #05052f;
+    color: #c1222a;
+    border: 2px solid #c1222a;
+}
+.Contact h2{
+    margin-top: 15%;
+    text-align: center;
+    font-size: 40px;
+}
+form{
+   margin-left: 31%;
+   margin-top: 20px; 
+}
+.i{
+    width: 500px;
+    height: 40px;
+}
+.msg{
+    width: 500px;
+    height: 100px;
+}
+.Contact-btn{
+    width: 200px;
+    height: 40px;
+    background-color: #c1222a;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-left: 150px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+.Contact-btn:hover{
+    background-color: white;
+    border: 2px solid #c1222a;
+    color: #c1222a;
+}
+.end{
+    width: 100%;
+    height: 200px;
+    background-color: #05052f;
+    color: white;
+    margin-top: 100px;
+}
